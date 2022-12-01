@@ -1,0 +1,7 @@
+#+title: Advent of Code 2022
+
+#+begin_quote
+You've got gall, you've got guile
+#+end_quote
+
+hello worlb

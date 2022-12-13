@@ -1,4 +1,4 @@
-(add-to-load-path (string-append (dirname (dirname (current-filename))) "/lib"))
+(add-to-load-path (string-append (dirname (getcwd)) "/lib"))
 
 (use-modules (aoc utils)
              (srfi srfi-1)
